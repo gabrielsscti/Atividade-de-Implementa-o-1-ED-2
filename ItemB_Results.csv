@@ -1,0 +1,31 @@
+Tamanho de Vetor,Tempo de execução(s),Número de operações,Tipo de Implementação MergeSort
+10,1.8010000000000001E-4,265,Clássica
+10,8.44E-5,176,Merge com Insert Sort
+10,9.27E-5,269,Merge verificando se subvetores estão ordenados
+10,1.0140000000000001E-4,168,Merge sem cópia de vetores
+10,6.54E-5,-1,Merge da biblioteca java.utils.Arrays
+100,2.098E-4,5016,Clássica
+100,1.633E-4,4020,Merge com Insert Sort
+100,1.043E-4,4785,Merge verificando se subvetores estão ordenados
+100,1.739E-4,3001,Merge sem cópia de vetores
+100,4.313E-4,-1,Merge da biblioteca java.utils.Arrays
+1000,0.0011994,72963,Clássica
+1000,0.0014102000000000001,66208,Merge com Insert Sort
+1000,0.0013675,70786,Merge verificando se subvetores estão ordenados
+1000,0.0011909000000000002,42980,Merge sem cópia de vetores
+1000,8.561E-4,-1,Merge da biblioteca java.utils.Arrays
+10000,0.0045411,966750,Clássica
+10000,0.003399,857397,Merge com Insert Sort
+10000,0.0043855000000000005,946637,Merge verificando se subvetores estão ordenados
+10000,0.005915800000000001,565872,Merge sem cópia de vetores
+10000,0.0092023,-1,Merge da biblioteca java.utils.Arrays
+100000,0.0537993,11994884,Clássica
+100000,0.0388787,11019132,Merge com Insert Sort
+100000,0.0468777,11782576,Merge verificando se subvetores estão ordenados
+100000,0.0449905,6987782,Merge sem cópia de vetores
+100000,0.0577929,-1,Merge da biblioteca java.utils.Arrays
+1000000,0.8827614,142777007,Clássica
+1000000,0.6173424000000001,135671358,Merge com Insert Sort
+1000000,0.8068466000000001,140824223,Merge verificando se subvetores estão ordenados
+1000000,0.5923117,82922285,Merge sem cópia de vetores
+1000000,0.6336241,-1,Merge da biblioteca java.utils.Arrays
